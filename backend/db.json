@@ -1,0 +1,51 @@
+{ 
+    "users": [
+        {
+            "id": 1,
+            "name": "Raimundo ti toim",
+            "email": "raimundo_titoim@gmail.com"
+        },
+        
+        {
+            "id": 2,
+            "name": "Zeca Pato Roco",
+            "email": "pato_zeca@gmail.com"
+        },
+        
+        {
+            "id": 3,
+            "name": "Toinha boca de lata",
+            "email": "bonecadeferro@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "Toinha foguete",
+            "email": "spotinik@gmail.com"
+        },
+        {
+            "id": 5,
+            "name": "Ze da Moita",
+            "email": "zezimmoitinha@gmail.com"
+        },
+        {
+            "id": 6,
+            "name": "Valdineis Mouse",
+            "email": "micko@gmail.com"
+        },
+        {
+            "id": 7,
+            "name": "Serafim do Posto",
+            "email": "serafa@gmail.com"
+        },
+        {
+            "id": 8,
+            "name": "Chica Cracuda",
+            "email": "sovamo@gmail.com"
+        },
+        {
+            "id": 9,
+            "name": "Pedro Caxad'agua",
+            "email": "boiafria@gmail.com"
+        }
+    ]
+}
